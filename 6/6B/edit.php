@@ -65,7 +65,7 @@ $querySelect = mysqli_query($koneksi, "SELECT cashier.name as cashier, product.n
     <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Price">
   </div>
   <div class="form-group">
-    <input type="submit" value="Add" placeholder="Price">
+    <input type="submit" value="Edit" placeholder="Price">
   </div>
   </form>
     
